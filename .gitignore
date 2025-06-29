@@ -1,0 +1,23 @@
+# Go workspace files
+node_modules/
+
+# Compiled object files
+*.o
+*.a
+*.so
+go.sum
+
+# Folders
+_obj/
+_test/
+tmp/
+vendor/
+
+# Executables
+*.out
+
+# Libraries
+*.lib
+
+# Binaries
+*.exe
