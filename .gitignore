@@ -5,6 +5,7 @@ node_modules/
 *.o
 *.a
 *.so
+go.sum
 
 # Folders
 _obj/
