@@ -1,0 +1,22 @@
+.env
+node_modules/
+
+# Compiled object files
+*.o
+*.a
+*.so
+
+# Folders
+_obj/
+_test/
+tmp/
+vendor/
+
+# Executables
+*.out
+
+# Libraries
+*.lib
+
+# Binaries
+*.exe
